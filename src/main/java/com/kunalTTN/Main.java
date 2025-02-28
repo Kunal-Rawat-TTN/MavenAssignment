@@ -11,7 +11,6 @@ import java.sql.SQLException;
 @Getter
 @AllArgsConstructor
 @ToString
-
 public class Main {
     int sampleID;
     String name;
